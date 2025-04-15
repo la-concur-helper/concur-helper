@@ -296,3 +296,4 @@ if __name__ == '__main__':
     
     end_time = time.time()
     logger.info(f"Keep-Alive ジョブ終了 (所要時間: {end_time - start_time:.2f}秒)")
+    
